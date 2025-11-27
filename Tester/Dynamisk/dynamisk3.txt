@@ -1,0 +1,137 @@
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: *   *   *   *
+ 2: *   *   *   *
+ 3: 00:c0:ca:b8:8c:49  0.942 ms  1.002 ms  1.140 ms
+Sat 22 Nov 18:10:38 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.094 ms  1.615 ms  1.165 ms
+Sat 22 Nov 18:10:38 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.819 ms  1.787 ms  8.096 ms
+Sat 22 Nov 18:10:38 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.916 ms  0.700 ms  1.144 ms
+Sat 22 Nov 18:10:38 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  3.508 ms  2.218 ms  1.175 ms
+Sat 22 Nov 18:10:39 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  10.679 ms  6.522 ms  16.662 ms
+Sat 22 Nov 18:10:39 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  8.633 ms  1.361 ms  2.828 ms
+Sat 22 Nov 18:10:39 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.910 ms  1.481 ms  0.608 ms
+Sat 22 Nov 18:10:39 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.733 ms  1.196 ms  0.983 ms
+Sat 22 Nov 18:10:39 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.727 ms  0.731 ms  0.666 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.688 ms  3.325 ms  0.552 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.671 ms  0.616 ms  0.874 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.651 ms  0.751 ms  1.822 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  2.280 ms  2.080 ms  0.525 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.744 ms  1.197 ms  0.638 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.778 ms  0.539 ms  0.544 ms
+Sat 22 Nov 18:10:40 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.730 ms  2.511 ms  1.013 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.754 ms  1.240 ms  0.622 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.797 ms  0.898 ms  0.806 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  3.414 ms  0.863 ms  0.730 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.962 ms  0.880 ms  0.952 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  2.590 ms  0.920 ms  0.869 ms
+Sat 22 Nov 18:10:41 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.086 ms  1.214 ms  1.218 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.101 ms  1.152 ms  2.372 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.060 ms  1.102 ms  0.512 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.735 ms  0.795 ms  0.619 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.532 ms  2.652 ms  2.973 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  4.503 ms  3.529 ms  0.638 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.847 ms  0.729 ms  0.663 ms
+Sat 22 Nov 18:10:42 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.560 ms  0.573 ms  0.605 ms
+Sat 22 Nov 18:10:43 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  4.877 ms  41.852 ms  6.616 ms
+Sat 22 Nov 18:10:43 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.283 ms  0.497 ms  1.087 ms
+Sat 22 Nov 18:10:43 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  3.796 ms  79.969 ms  37.019 ms
+Sat 22 Nov 18:10:43 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  13.805 ms  0.844 ms  0.795 ms
+Sat 22 Nov 18:10:43 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  3.080 ms  1.076 ms  0.844 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.916 ms  7.395 ms  55.837 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  1.011 ms  12.087 ms  1.973 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.929 ms  7.072 ms  1.345 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.667 ms  0.991 ms  0.852 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  9.380 ms  4.802 ms  1.056 ms
+Sat 22 Nov 18:10:44 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.834 ms  0.853 ms  1.301 ms
+Sat 22 Nov 18:10:45 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.890 ms  0.916 ms  0.885 ms
+Sat 22 Nov 18:10:45 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.827 ms  0.966 ms  1.000 ms
+Sat 22 Nov 18:10:45 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  5.776 ms  0.765 ms  0.824 ms
+Sat 22 Nov 18:10:45 CET 2025
+traceroute to 00:c0:ca:b8:8c:49 (00:c0:ca:b8:8c:49), 50 hops max, 20 byte packets
+ 1: 00:c0:ca:b8:8c:49  0.678 ms  1.190 ms  0.500 ms
+Sat 22 Nov 18:10:45 CET 2025
